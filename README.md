@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aditya Kumar Jha</h1>
 <h3 align="center">A Web Developer from India</h3>
 
-- 🔭 I’m currently working on [HobbyHive](https://github.com/Adiijha/HobbyHive-frontend)
+- 🔭 I’m currently working on [TradeXcel](https://github.com/Adiijha/TradeXcel-frontend)
 
 - 🌱 I’m currently learning **Next.JS**
 
-- 👨‍💻 All of my projects are available at [https://adii-kj-portfolio.vercel.app](https://adii-kj-portfolio.vercel.app)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://adii-kj-portfolio.vercel.app)
 
 - 📫 How to reach me **adityakumarjha.276@gmail.com**
 
