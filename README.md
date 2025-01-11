@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on [TradeXcel](https://github.com/Adiijha/TradeXcel-frontend)
 
-- 🌱 I’m currently learning **Next.JS**
+- 🌱 I’m currently learning **Next.JS and Typescript**
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://adii-kj-portfolio.vercel.app)
 
 - 📫 How to reach me **adityakumarjha.276@gmail.com**
 
-- ⚡ Fun fact **Professional Procrastinator**
+- ⚡ Fun fact **Professional Yapper**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
