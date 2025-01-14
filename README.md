@@ -18,16 +18,16 @@
 ## 🌐 Connect with Me:
 <p>
   <a href="https://twitter.com/adii_kj" target="_blank">
-    <img src="https://img.icons8.com/color/48/twitter--v1.png" alt="Twitter" height="48" />
+    <img src="https://img.icons8.com/color/48/twitter--v1.png" alt="Twitter" height="40" />
   </a>
   <a href="https://linkedin.com/in/adii_kj" target="_blank">
-    <img src="https://img.icons8.com/color/48/linkedin-circled--v1.png" alt="LinkedIn" height="48" />
+    <img src="https://img.icons8.com/color/48/linkedin-circled--v1.png" alt="LinkedIn" height="40" />
   </a>
   <a href="https://instagram.com/adii_jha" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram" height="48" />
+    <img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram" height="40" />
   </a>
   <a href="https://www.leetcode.com/adii_kj" target="_blank">
-    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode" height="48" />
+    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode" height="40" />
   </a>
 </p>
 
@@ -50,14 +50,14 @@
 ### ⚙️ Backend
 <p>
   <img src="https://img.icons8.com/color/48/nodejs.png" alt="Node.js" />
-  <img src="https://img.icons8.com/ios-filled/50/express-js.png" alt="Express.js" />
+  <img src="https://img.icons8.com/color/50/express-js.png" alt="Express.js" />
   <img src="https://img.icons8.com/color/48/firebase.png" alt="Firebase" />
 </p>
 
 ### 🗄️ Databases
 <p>
   <img src="https://img.icons8.com/color/48/mongodb.png" alt="MongoDB" />
-  <img src="https://img.icons8.com/color/48/postgresql.png" alt="PostgreSQL" />
+  <img src="https://img.icons8.com/color/48/postgresql-logo.png" alt="PostgreSQL" />
   <img src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL" />
 </p>
 
