@@ -74,8 +74,8 @@
 
 ## 📊 GitHub Stats:
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=adiijha&show_icons=true&theme=radical" alt="GitHub Stats" height="200" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adiijha&theme=radical" alt="GitHub Streak" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api?username=adiijha&show_icons=true&theme=radical" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adiijha&theme=radical" alt="GitHub Streak" height="150" />
 </div>
 
 ---
