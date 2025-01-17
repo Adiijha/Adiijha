@@ -7,7 +7,7 @@
 
 - 🌱 **Currently Learning**: **Next.js** and **TypeScript**
 
-- 👨‍💻 **Portfolio**: [My Projects & Work](https://adii-kj-portfolio.vercel.app)
+- 👨‍💻 **Portfolio**: [My Projects & Work](https://adiikj.vercel.app)
 
 - 📫 **Contact Me**: adityakumarjha.276@gmail.com
 
