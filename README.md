@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya Kumar Jha</h1>
-<h3 align="center">A Passionate Web Developer from India</h3>
+<h3 align="center">A Web Developer from India</h3>
 
 ---
 
