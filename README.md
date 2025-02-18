@@ -5,7 +5,7 @@
 
 - 🔭 **Currently Working On**: [TradeXcel](https://github.com/Adiijha/TradeXcel-frontend)
 
-- 🌱 **Currently Learning**: **Next.js** and **TypeScript**
+- 🌱 **Currently Learning**: **Next.js**
 
 - 👨‍💻 **Portfolio**: [My Projects & Work](https://adiikj.vercel.app)
 
