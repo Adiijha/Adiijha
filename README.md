@@ -1,33 +1,31 @@
-<h1 align="center">Hi 👋, I'm Aditya Kumar Jha </h1>
+<h1 align="center">Hi 👋, I'm Aditya Kumar Jha</h1>
 <h3 align="center">A Full Stack Web Developer from India</h3>
 
 ---
 
-- 🔭 **Currently Working On**: [TradeXcel](https://github.com/Adiijha/TradeXcel-frontend)
+## 🚀 About Me
 
-- 🌱 **Currently Learning**: **Next.js**
-
-- 👨‍💻 **Portfolio**: [My Projects & Work](https://adiikj.vercel.app)
-
-- 📫 **Contact Me**: adityakumarjha.276@gmail.com
-
-- ⚡ **Fun Fact**: I’m a **Professional Yapper**, so I make conversations as engaging as my code!
+- 🔭 **Currently Working On**: [TradeXcel](https://github.com/Adiijha/TradeXcel-frontend)  
+- 🌱 **Currently Learning**: **Next.js**  
+- 👨‍💻 **Portfolio**: [My Projects & Work](https://adiikj.vercel.app)  
+- 📫 **Contact Me**: **adityakumarjha.276@gmail.com**  
+- ⚡ **Fun Fact**: I’m a **Professional Yapper**, making conversations as engaging as my code! 😆  
 
 ---
 
 ## 🌐 Connect with Me:
-<p>
+<p align="">
   <a href="https://twitter.com/adii_kj" target="_blank">
-    <img src="https://img.icons8.com/color/48/twitter--v1.png" alt="Twitter" height="40" />
+    <img src="https://img.icons8.com/color/48/twitter--v1.png" alt="Twitter" />
   </a>
   <a href="https://linkedin.com/in/adii_kj" target="_blank">
-    <img src="https://img.icons8.com/color/48/linkedin-circled--v1.png" alt="LinkedIn" height="40" />
+    <img src="https://img.icons8.com/color/48/linkedin-circled--v1.png" alt="LinkedIn" />
   </a>
   <a href="https://instagram.com/adii_jha" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram" height="40" />
+    <img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram" />
   </a>
   <a href="https://www.leetcode.com/adii_kj" target="_blank">
-    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode" height="40" />
+    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode" />
   </a>
 </p>
 
@@ -41,6 +39,7 @@
   <img src="https://img.icons8.com/color/48/css3.png" alt="CSS3" />
   <img src="https://img.icons8.com/color/48/javascript--v1.png" alt="JavaScript" />
   <img src="https://img.icons8.com/office/40/react.png" alt="React" />
+  <img src="https://img.icons8.com/fluency/48/nextjs.png" alt="Next.js" />
   <img src="https://img.icons8.com/color/48/typescript.png" alt="TypeScript" />
   <img src="https://img.icons8.com/color/48/redux.png" alt="Redux" />
   <img src="https://img.icons8.com/color/48/tailwindcss.png" alt="Tailwind CSS" />
@@ -73,10 +72,17 @@
 ---
 
 ## 📊 GitHub Stats:
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=adiijha&show_icons=true&theme=radical" alt="GitHub Stats" height="160" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=adiijha&theme=radical" alt="GitHub Streak" height="160" />
-</div>
+</p>
+
+---
+
+## 🏆 GitHub Trophies:
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=adiijha&theme=radical&margin-w=15&column=7" alt="Trophies" />
+</p>
 
 ---
 
