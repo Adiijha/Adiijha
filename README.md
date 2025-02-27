@@ -14,7 +14,7 @@
 ---
 
 ## 🌐 Connect with Me:
-<p align="">
+<p>
   <a href="https://twitter.com/adii_kj" target="_blank">
     <img src="https://img.icons8.com/color/48/twitter--v1.png" alt="Twitter" />
   </a>
@@ -86,4 +86,4 @@
 
 ---
 
-<p align="center">🌟 Let's build something amazing together! 🌟</p>
+<p align="center">🌟Contact me and Let's build something amazing together! 🌟</p>
